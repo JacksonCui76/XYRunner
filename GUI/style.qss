@@ -1,0 +1,50 @@
+QPushButton::menu-indicator{image:None;}
+QPushButton:focus{padding: -5;}
+QMenuBar
+{
+	background-image: url(./XYRunner.ico);
+}
+QTreeWidget#treeWidget
+{
+	background-image: url(./XYRunner.ico);
+	padding-top:15px;
+}
+QFrame#frame
+{
+	background-image: url(./XYRunner.ico);
+	border: 10px;
+}
+QFrame#frame_3
+{
+	background-image: url(./XYRunner.ico);
+	border: 10px;
+}
+
+QPushButton#pushButton_1
+{
+	background-image: url(./XYRunner.ico);
+	background-color: transparent;
+	border: 10px;
+}
+QPushButton#pushButton_1:hover{
+	background-image: url(./XYRunner.ico);
+	border: 10px;
+}
+QPushButton#pushButton_1:checked{
+	background-image: url(:./XYRunner.ico);
+	border: 10px;
+}
+
+QPushButton#pushButton_10{
+	background-image: url(./XYRunner.ico);
+	background-color: transparent;
+	border: 10px;
+}
+QPushButton#pushButton_10:hover{
+	background-image: url(./XYRunner.ico);
+	border: 10px;
+}
+QPushButton#pushButton_10:checked{
+	background-image: url(:/res/image/22.png);
+	border: 10px;
+}
