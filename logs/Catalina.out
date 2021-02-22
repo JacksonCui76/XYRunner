@@ -1,0 +1,232 @@
+INFO: 2021-02-17 02:59:09 Preparing case data
+INFO: 2021-02-17 02:59:09 =====  API test is not selected this time  =====
+INFO: 2021-02-17 02:59:09 ==========  The test data is basically correct, and the test is about to start  ==========
+INFO: 2021-02-17 03:00:00 Preparing case data
+INFO: 2021-02-17 03:00:00 ==========  The test data is basically correct, and the test is about to start  ==========
+INFO: 2021-02-17 03:00:00 =====  UI test is not selected this time  =====
+INFO: 2021-02-17 03:11:47 Preparing case data
+INFO: 2021-02-17 03:11:48 ==========  The test data is basically correct, and the test is about to start  ==========
+INFO: 2021-02-17 03:11:48 =====  UI test is not selected this time  =====
+INFO: 2021-02-17 03:22:42 Preparing case data
+INFO: 2021-02-17 03:22:42 ==========  The test data is basically correct, and the test is about to start  ==========
+INFO: 2021-02-17 03:22:42 =====  UI test is not selected this time  =====
+INFO: 2021-02-17 03:28:36 Preparing case data
+INFO: 2021-02-17 03:28:36 ==========  The test data is basically correct, and the test is about to start  ==========
+INFO: 2021-02-17 03:28:36 =====  UI test is not selected this time  =====
+DEBUG 2021-02-17 03:28:37 Not in REPL -> leaving logger event level as is.
+INFO: 2021-02-17 03:30:02 Preparing case data
+INFO: 2021-02-17 03:30:02 ==========  The test data is basically correct, and the test is about to start  ==========
+INFO: 2021-02-17 03:30:02 =====  UI test is not selected this time  =====
+DEBUG 2021-02-17 03:30:02 Not in REPL -> leaving logger event level as is.
+INFO: 2021-02-17 04:09:22 Preparing case data
+INFO: 2021-02-17 04:09:22 =====  API test is not selected this time  =====
+INFO: 2021-02-17 04:09:22 ==========  The test data is basically correct, and the test is about to start  ==========
+DEBUG 2021-02-17 04:09:23 Not in REPL -> leaving logger event level as is.
+INFO: 2021-02-17 04:10:51 Preparing case data
+INFO: 2021-02-17 04:10:51 =====  API test is not selected this time  =====
+INFO: 2021-02-17 04:10:51 ==========  The test data is basically correct, and the test is about to start  ==========
+DEBUG 2021-02-17 04:10:52 Not in REPL -> leaving logger event level as is.
+INFO: 2021-02-17 04:11:27 Preparing case data
+INFO: 2021-02-17 04:11:27 =====  API test is not selected this time  =====
+INFO: 2021-02-17 04:11:27 ==========  The test data is basically correct, and the test is about to start  ==========
+DEBUG 2021-02-17 04:11:28 Not in REPL -> leaving logger event level as is.
+INFO: 2021-02-17 04:11:33 Preparing case data
+INFO: 2021-02-17 04:11:33 =====  API test is not selected this time  =====
+INFO: 2021-02-17 04:11:33 ==========  The test data is basically correct, and the test is about to start  ==========
+DEBUG 2021-02-17 04:11:34 Not in REPL -> leaving logger event level as is.
+INFO: 2021-02-17 04:14:21 ==========  RunningTag:UI  ==========
+DEBUG 2021-02-17 04:14:22 Not in REPL -> leaving logger event level as is.
+INFO: 2021-02-17 04:14:22 Preparing case data
+INFO: 2021-02-17 04:14:22 =====  API test is not selected this time  =====
+INFO: 2021-02-17 04:14:23 ==========  The test data is basically correct, and the test is about to start  ==========
+DEBUG 2021-02-17 04:14:23 Looking for locale `en_US` in provider `faker.providers.address`.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.address` has been localized to `en_US`.
+DEBUG 2021-02-17 04:14:23 Looking for locale `en_US` in provider `faker.providers.automotive`.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.automotive` has been localized to `en_US`.
+DEBUG 2021-02-17 04:14:23 Looking for locale `en_US` in provider `faker.providers.bank`.
+DEBUG 2021-02-17 04:14:23 Specified locale `en_US` is not available for provider `faker.providers.bank`. Locale reset to `en_GB` for this provider.
+DEBUG 2021-02-17 04:14:23 Looking for locale `en_US` in provider `faker.providers.barcode`.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.barcode` has been localized to `en_US`.
+DEBUG 2021-02-17 04:14:23 Looking for locale `en_US` in provider `faker.providers.color`.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.color` has been localized to `en_US`.
+DEBUG 2021-02-17 04:14:23 Looking for locale `en_US` in provider `faker.providers.company`.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.company` has been localized to `en_US`.
+DEBUG 2021-02-17 04:14:23 Looking for locale `en_US` in provider `faker.providers.credit_card`.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.credit_card` has been localized to `en_US`.
+DEBUG 2021-02-17 04:14:23 Looking for locale `en_US` in provider `faker.providers.currency`.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.currency` has been localized to `en_US`.
+DEBUG 2021-02-17 04:14:23 Looking for locale `en_US` in provider `faker.providers.date_time`.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.date_time` has been localized to `en_US`.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.file` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+DEBUG 2021-02-17 04:14:23 Looking for locale `en_US` in provider `faker.providers.geo`.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.geo` has been localized to `en_US`.
+DEBUG 2021-02-17 04:14:23 Looking for locale `en_US` in provider `faker.providers.internet`.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.internet` has been localized to `en_US`.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.isbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+DEBUG 2021-02-17 04:14:23 Looking for locale `en_US` in provider `faker.providers.job`.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.job` has been localized to `en_US`.
+DEBUG 2021-02-17 04:14:23 Looking for locale `en_US` in provider `faker.providers.lorem`.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.lorem` has been localized to `en_US`.
+DEBUG 2021-02-17 04:14:23 Looking for locale `en_US` in provider `faker.providers.misc`.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.misc` has been localized to `en_US`.
+DEBUG 2021-02-17 04:14:23 Looking for locale `en_US` in provider `faker.providers.person`.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.person` has been localized to `en_US`.
+DEBUG 2021-02-17 04:14:23 Looking for locale `en_US` in provider `faker.providers.phone_number`.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.phone_number` has been localized to `en_US`.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.profile` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.python` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+DEBUG 2021-02-17 04:14:23 Looking for locale `en_US` in provider `faker.providers.ssn`.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.ssn` has been localized to `en_US`.
+DEBUG 2021-02-17 04:14:23 Provider `faker.providers.user_agent` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+INFO: 2021-02-17 04:14:23 Preparing case data
+INFO: 2021-02-17 04:14:23 =====  API test is not selected this time  =====
+INFO: 2021-02-17 04:14:23 ==========  The test data is basically correct, and the test is about to start  ==========
+DEBUG 2021-02-17 04:14:23 POST http://127.0.0.1:16918/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+DEBUG 2021-02-17 04:14:23 Starting new HTTP connection (1): 127.0.0.1:16918
+DEBUG 2021-02-17 04:14:26 http://127.0.0.1:16918 "POST /session HTTP/1.1" 200 719
+DEBUG 2021-02-17 04:14:26 Finished Request
+DEBUG 2021-02-17 04:14:26 POST http://127.0.0.1:16918/session/f1d5e43448270e86d46ad07103fded53/window/maximize {}
+INFO: 2021-02-17 04:31:05 ==========  RunningTag:UI  ==========
+INFO: 2021-02-17 05:03:57 Preparing case data
+INFO: 2021-02-17 05:03:57 =====  API test is not selected this time  =====
+INFO: 2021-02-17 05:03:57 ==========  The test data is basically correct, and the test is about to start  ==========
+INFO: 2021-02-17 05:04:37 Preparing case data
+INFO: 2021-02-17 05:04:37 =====  API test is not selected this time  =====
+INFO: 2021-02-17 05:04:37 ==========  The test data is basically correct, and the test is about to start  ==========
+DEBUG 2021-02-17 05:04:38 Not in REPL -> leaving logger event level as is.
+INFO: 2021-02-17 05:04:55 Preparing case data
+INFO: 2021-02-17 05:04:55 =====  API test is not selected this time  =====
+INFO: 2021-02-17 05:04:55 ==========  The test data is basically correct, and the test is about to start  ==========
+DEBUG 2021-02-17 05:04:56 Not in REPL -> leaving logger event level as is.
+INFO: 2021-02-17 05:05:00 Preparing case data
+INFO: 2021-02-17 05:05:00 =====  API test is not selected this time  =====
+INFO: 2021-02-17 05:05:00 ==========  The test data is basically correct, and the test is about to start  ==========
+DEBUG 2021-02-17 05:05:01 Not in REPL -> leaving logger event level as is.
+INFO: 2021-02-17 05:10:57 Preparing case data
+INFO: 2021-02-17 05:10:57 =====  API test is not selected this time  =====
+INFO: 2021-02-17 05:10:57 ==========  The test data is basically correct, and the test is about to start  ==========
+DEBUG 2021-02-17 05:10:58 Not in REPL -> leaving logger event level as is.
+INFO: 2021-02-17 05:11:23 Preparing case data
+INFO: 2021-02-17 05:11:23 =====  API test is not selected this time  =====
+INFO: 2021-02-17 05:11:23 ==========  The test data is basically correct, and the test is about to start  ==========
+DEBUG 2021-02-17 05:11:24 Not in REPL -> leaving logger event level as is.
+INFO: 2021-02-17 05:18:39 Preparing case data
+INFO: 2021-02-17 05:18:39 =====  API test is not selected this time  =====
+INFO: 2021-02-17 05:18:39 ==========  The test data is basically correct, and the test is about to start  ==========
+INFO: 2021-02-17 05:18:50 Preparing case data
+INFO: 2021-02-17 05:18:50 =====  API test is not selected this time  =====
+INFO: 2021-02-17 05:18:50 ==========  The test data is basically correct, and the test is about to start  ==========
+INFO: 2021-02-17 05:19:02 Preparing case data
+INFO: 2021-02-17 05:19:02 =====  API test is not selected this time  =====
+INFO: 2021-02-17 05:19:02 ==========  The test data is basically correct, and the test is about to start  ==========
+INFO: 2021-02-17 05:44:33 Preparing case data
+INFO: 2021-02-17 05:44:33 =====  API test is not selected this time  =====
+INFO: 2021-02-17 05:44:33 ==========  The test data is basically correct, and the test is about to start  ==========
+DEBUG 2021-02-17 05:44:34 Not in REPL -> leaving logger event level as is.
+INFO: 2021-02-17 05:44:40 Preparing case data
+INFO: 2021-02-17 05:44:40 =====  API test is not selected this time  =====
+INFO: 2021-02-17 05:44:40 ==========  The test data is basically correct, and the test is about to start  ==========
+DEBUG 2021-02-17 05:44:41 Not in REPL -> leaving logger event level as is.
+INFO: 2021-02-17 05:45:01 Preparing case data
+INFO: 2021-02-17 05:45:01 =====  API test is not selected this time  =====
+INFO: 2021-02-17 05:45:01 ==========  The test data is basically correct, and the test is about to start  ==========
+DEBUG 2021-02-17 05:45:01 Not in REPL -> leaving logger event level as is.
+INFO: 2021-02-17 05:45:10 Preparing case data
+INFO: 2021-02-17 05:45:10 =====  API test is not selected this time  =====
+INFO: 2021-02-17 05:45:11 ==========  The test data is basically correct, and the test is about to start  ==========
+DEBUG 2021-02-17 05:45:11 Not in REPL -> leaving logger event level as is.
+INFO: 2021-02-17 05:47:28 Preparing case data
+INFO: 2021-02-17 05:47:28 =====  API test is not selected this time  =====
+INFO: 2021-02-17 05:47:28 ==========  The test data is basically correct, and the test is about to start  ==========
+DEBUG 2021-02-17 05:47:28 Not in REPL -> leaving logger event level as is.
+INFO: 2021-02-17 05:47:45 Preparing case data
+INFO: 2021-02-17 05:47:45 =====  API test is not selected this time  =====
+INFO: 2021-02-17 05:47:45 ==========  The test data is basically correct, and the test is about to start  ==========
+DEBUG 2021-02-17 05:47:46 Not in REPL -> leaving logger event level as is.
+INFO: 2021-02-17 05:49:14 ==========  RunningTag:UI  ==========
+INFO: 2021-02-17 05:49:50 ==========  RunningTag:UI  ==========
+DEBUG 2021-02-17 05:49:50 Not in REPL -> leaving logger event level as is.
+INFO: 2021-02-17 05:49:51 Preparing case data
+INFO: 2021-02-17 05:49:51 =====  API test is not selected this time  =====
+INFO: 2021-02-17 05:49:51 ==========  The test data is basically correct, and the test is about to start  ==========
+DEBUG 2021-02-17 05:49:51 Looking for locale `en_US` in provider `faker.providers.address`.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.address` has been localized to `en_US`.
+DEBUG 2021-02-17 05:49:51 Looking for locale `en_US` in provider `faker.providers.automotive`.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.automotive` has been localized to `en_US`.
+DEBUG 2021-02-17 05:49:51 Looking for locale `en_US` in provider `faker.providers.bank`.
+DEBUG 2021-02-17 05:49:51 Specified locale `en_US` is not available for provider `faker.providers.bank`. Locale reset to `en_GB` for this provider.
+DEBUG 2021-02-17 05:49:51 Looking for locale `en_US` in provider `faker.providers.barcode`.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.barcode` has been localized to `en_US`.
+DEBUG 2021-02-17 05:49:51 Looking for locale `en_US` in provider `faker.providers.color`.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.color` has been localized to `en_US`.
+DEBUG 2021-02-17 05:49:51 Looking for locale `en_US` in provider `faker.providers.company`.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.company` has been localized to `en_US`.
+DEBUG 2021-02-17 05:49:51 Looking for locale `en_US` in provider `faker.providers.credit_card`.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.credit_card` has been localized to `en_US`.
+DEBUG 2021-02-17 05:49:51 Looking for locale `en_US` in provider `faker.providers.currency`.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.currency` has been localized to `en_US`.
+DEBUG 2021-02-17 05:49:51 Looking for locale `en_US` in provider `faker.providers.date_time`.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.date_time` has been localized to `en_US`.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.file` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+DEBUG 2021-02-17 05:49:51 Looking for locale `en_US` in provider `faker.providers.geo`.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.geo` has been localized to `en_US`.
+DEBUG 2021-02-17 05:49:51 Looking for locale `en_US` in provider `faker.providers.internet`.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.internet` has been localized to `en_US`.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.isbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+DEBUG 2021-02-17 05:49:51 Looking for locale `en_US` in provider `faker.providers.job`.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.job` has been localized to `en_US`.
+DEBUG 2021-02-17 05:49:51 Looking for locale `en_US` in provider `faker.providers.lorem`.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.lorem` has been localized to `en_US`.
+DEBUG 2021-02-17 05:49:51 Looking for locale `en_US` in provider `faker.providers.misc`.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.misc` has been localized to `en_US`.
+DEBUG 2021-02-17 05:49:51 Looking for locale `en_US` in provider `faker.providers.person`.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.person` has been localized to `en_US`.
+DEBUG 2021-02-17 05:49:51 Looking for locale `en_US` in provider `faker.providers.phone_number`.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.phone_number` has been localized to `en_US`.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.profile` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.python` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+DEBUG 2021-02-17 05:49:51 Looking for locale `en_US` in provider `faker.providers.ssn`.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.ssn` has been localized to `en_US`.
+DEBUG 2021-02-17 05:49:51 Provider `faker.providers.user_agent` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+INFO: 2021-02-17 05:49:51 Preparing case data
+INFO: 2021-02-17 05:49:51 =====  API test is not selected this time  =====
+INFO: 2021-02-17 05:49:51 ==========  The test data is basically correct, and the test is about to start  ==========
+DEBUG 2021-02-17 05:49:52 POST http://127.0.0.1:19764/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+DEBUG 2021-02-17 05:49:52 Starting new HTTP connection (1): 127.0.0.1:19764
+DEBUG 2021-02-17 05:49:55 http://127.0.0.1:19764 "POST /session HTTP/1.1" 200 719
+DEBUG 2021-02-17 05:49:55 Finished Request
+DEBUG 2021-02-17 05:49:55 POST http://127.0.0.1:19764/session/7e50e38a139c1a15b4a8c57561694dbd/window/maximize {}
+DEBUG 2021-02-17 05:49:56 http://127.0.0.1:19764 "POST /session/7e50e38a139c1a15b4a8c57561694dbd/window/maximize HTTP/1.1" 200 52
+DEBUG 2021-02-17 05:49:56 Finished Request
+DEBUG 2021-02-17 05:49:56 POST http://127.0.0.1:19764/session/7e50e38a139c1a15b4a8c57561694dbd/url {"url": "http://192.168.255.64:14200/web/feng/index.html"}
+DEBUG 2021-02-17 05:49:57 http://127.0.0.1:19764 "POST /session/7e50e38a139c1a15b4a8c57561694dbd/url HTTP/1.1" 200 14
+DEBUG 2021-02-17 05:49:57 Finished Request
+DEBUG 2021-02-17 05:49:57 POST http://127.0.0.1:19764/session/7e50e38a139c1a15b4a8c57561694dbd/timeouts {"implicit": 10000}
+DEBUG 2021-02-17 05:49:57 http://127.0.0.1:19764 "POST /session/7e50e38a139c1a15b4a8c57561694dbd/timeouts HTTP/1.1" 200 14
+DEBUG 2021-02-17 05:49:57 Finished Request
+DEBUG 2021-02-17 05:49:57 GET http://127.0.0.1:19764/session/7e50e38a139c1a15b4a8c57561694dbd/window {}
+DEBUG 2021-02-17 05:49:57 http://127.0.0.1:19764 "GET /session/7e50e38a139c1a15b4a8c57561694dbd/window HTTP/1.1" 404 985
+DEBUG 2021-02-17 05:49:57 Finished Request
+DEBUG 2021-02-17 05:49:58 POST http://127.0.0.1:19764/session/7e50e38a139c1a15b4a8c57561694dbd/element {"using": "link text", "value": "\u5c0f\u84dd"}
+DEBUG 2021-02-17 05:49:58 http://127.0.0.1:19764 "POST /session/7e50e38a139c1a15b4a8c57561694dbd/element HTTP/1.1" 404 985
+DEBUG 2021-02-17 05:49:58 Finished Request
+DEBUG 2021-02-17 05:49:58 POST http://127.0.0.1:19764/session/7e50e38a139c1a15b4a8c57561694dbd/element {"using": "link text", "value": "\u767b\u5f55"}
+DEBUG 2021-02-17 05:49:58 http://127.0.0.1:19764 "POST /session/7e50e38a139c1a15b4a8c57561694dbd/element HTTP/1.1" 404 985
+DEBUG 2021-02-17 05:49:58 Finished Request
+DEBUG 2021-02-17 05:49:58 POST http://127.0.0.1:19785/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+DEBUG 2021-02-17 05:49:58 Starting new HTTP connection (1): 127.0.0.1:19785
+INFO: 2021-02-20 01:05:38 =========================  本次运行类型:  =========================
+DEBUG 2021-02-20 01:05:39 Not in REPL -> leaving logger event level as is.
+INFO: 2021-02-20 01:05:40 Preparing case data
+INFO: 2021-02-20 01:05:40 =====  API test is not selected this time  =====
+INFO: 2021-02-20 01:05:40 ==========  The test data is basically correct, and the test is about to start  ==========
+INFO: 2021-02-20 02:20:03 Preparing case data
+ERROR: 2021-02-20 02:20:03 execute task failed. the exception as follows:
+Traceback (most recent call last):
+  File "C:/Users/Administrator/Desktop/woniuticket/Project/Test_Case/Test_Main.py", line 33, in __init__
+    Utils.check_case_data(self.apiCaseinfo)
+  File "C:\Users\Administrator\Desktop\woniuticket\Project\Common\Utils.py", line 327, in check_case_data
+    elif type(li['SessionData']) != dict and li['SessionData'] is not None:
+KeyError: 'SessionData'
+INFO: 2021-02-20 02:20:03 =====  UI test is not selected this time  =====
+DEBUG 2021-02-20 02:20:04 Not in REPL -> leaving logger event level as is.
