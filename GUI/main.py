@@ -9,7 +9,7 @@ import sys, os, time
 from Project.Common.DoConfig import DoConf
 from GUI.XYRunner import Ui_Form
 from Project.Test_Case.run import Run
-from Project.Common.FilePath import CaseFile_path, logger_path, config_path, html_path
+from Project.Common.FilePath import CaseFile_path, logger_path, config_path
 from  GUI.Tool import QSSTool
 
 class Runthread_Log(QtCore.QThread):
