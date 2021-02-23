@@ -121,7 +121,7 @@ class Window(QWidget, Ui_Form, QThread):
                       "-oconf       打开配置文件\n"
                       "-ol       打开日志文件\n"
                       "-help or -h       获取帮助\n"
-                      "有关详细信息，请添加微信：JackconCui76")
+                      "有关详细信息，请访问GitHub：https://github.com/JacksonCui76/XYRunner")
                 sys.exit()
 
     def start_test(self):
